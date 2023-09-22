@@ -730,7 +730,7 @@ details > summary::-webkit-details-marker {
 }
 
 .logotypes {
-  max-width: 80rem;
+  max-width: 100%;
   margin: 0 2rem;
   display: flex;
   flex-wrap: wrap;
